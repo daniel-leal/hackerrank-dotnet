@@ -1,0 +1,12 @@
+/Users/daniel/Projects/dotnet/HackerRank/HackerRank.App/bin/Debug/netcoreapp3.1/HackerRank.App.deps.json
+/Users/daniel/Projects/dotnet/HackerRank/HackerRank.App/bin/Debug/netcoreapp3.1/HackerRank.App.runtimeconfig.json
+/Users/daniel/Projects/dotnet/HackerRank/HackerRank.App/bin/Debug/netcoreapp3.1/HackerRank.App.runtimeconfig.dev.json
+/Users/daniel/Projects/dotnet/HackerRank/HackerRank.App/bin/Debug/netcoreapp3.1/HackerRank.App.dll
+/Users/daniel/Projects/dotnet/HackerRank/HackerRank.App/bin/Debug/netcoreapp3.1/HackerRank.App.pdb
+/Users/daniel/Projects/dotnet/HackerRank/HackerRank.App/obj/Debug/netcoreapp3.1/HackerRank.App.csprojAssemblyReference.cache
+/Users/daniel/Projects/dotnet/HackerRank/HackerRank.App/obj/Debug/netcoreapp3.1/HackerRank.App.AssemblyInfoInputs.cache
+/Users/daniel/Projects/dotnet/HackerRank/HackerRank.App/obj/Debug/netcoreapp3.1/HackerRank.App.AssemblyInfo.cs
+/Users/daniel/Projects/dotnet/HackerRank/HackerRank.App/obj/Debug/netcoreapp3.1/HackerRank.App.csproj.CoreCompileInputs.cache
+/Users/daniel/Projects/dotnet/HackerRank/HackerRank.App/obj/Debug/netcoreapp3.1/HackerRank.App.dll
+/Users/daniel/Projects/dotnet/HackerRank/HackerRank.App/obj/Debug/netcoreapp3.1/HackerRank.App.pdb
+/Users/daniel/Projects/dotnet/HackerRank/HackerRank.App/obj/Debug/netcoreapp3.1/HackerRank.App.genruntimeconfig.cache
